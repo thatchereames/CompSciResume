@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  13 OCT 2025 21:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 OCT 2025 12:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -508,11 +508,6 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-
-Package lastpage Warning: \@currentHpage is
-(lastpage)                just "page." without number,
-(lastpage)                \lastpage@lastpageHy is now let empty.
-
 (./ThatcherEames - Resume.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -520,15 +515,15 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15490 strings out of 473190
- 262658 string characters out of 5715801
- 689405 words of memory out of 5000000
- 38544 multiletter control sequences out of 15000+600000
+ 15489 strings out of 473190
+ 262648 string characters out of 5715801
+ 689409 words of memory out of 5000000
+ 38543 multiletter control sequences out of 15000+600000
  581850 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,5n,79p,439b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "ThatcherEames - Resume.pdf" (1 page, 31682 bytes).
+Output written on "ThatcherEames - Resume.pdf" (1 page, 31768 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
