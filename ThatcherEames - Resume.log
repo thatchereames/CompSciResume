@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  23 OCT 2025 12:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  24 OCT 2025 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/thatchereames/Desktop/Resumes/CompSciResume/ThatcherEames - Resume.tex"
-(/Users/thatchereames/Desktop/Resumes/CompSciResume/ThatcherEames - Resume.tex
+**"/Users/thatchereames/Desktop/Programming/Resumes/CompSciResume/ThatcherEames - Resume.tex"
+(/Users/thatchereames/Desktop/Programming/Resumes/CompSciResume/ThatcherEames - Resume.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -432,15 +432,15 @@ LaTeX Font Info:    ... okay on input line 157.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=500.484pt
-* \textheight=681.15898pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* \textwidth=542.02501pt
+* \textheight=708.24513pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-65.90756pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=0.0pt
@@ -499,9 +499,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 23.74992pt on input line 167.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 197.
+(Font)              scaled to size 9.49997pt on input line 193.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 197.
+(Font)              scaled to size 11.39996pt on input line 193.
 
 
 [1
@@ -516,17 +516,17 @@ L3 programming layer <2025-01-18>
  ) 
 Here is how much of TeX's memory you used:
  15489 strings out of 473190
- 262648 string characters out of 5715801
- 689409 words of memory out of 5000000
+ 262684 string characters out of 5715801
+ 692421 words of memory out of 5000000
  38543 multiletter control sequences out of 15000+600000
  581850 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,439b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,451b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "ThatcherEames - Resume.pdf" (1 page, 31768 bytes).
+Output written on "ThatcherEames - Resume.pdf" (1 page, 32551 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
